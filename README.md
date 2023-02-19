@@ -1,4 +1,4 @@
-# My-experience
+# Yandex_practicum
 
 <p align="center"> Проекты Data Analyst </p align="center">
 
